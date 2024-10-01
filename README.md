@@ -1,3 +1,5 @@
+Project from course Docker for Java Developers- John Thompson • 500,000+ Enrollments Worldwide - Udemy: https://www.udemy.com/course/docker-for-java-developers/
+
 # Running project
 - The first step is to change the <docker.image.prefix> in the pom.xml file to match your Docker Hub account
   ![image](https://github.com/user-attachments/assets/9f69f59c-5236-40dc-b8b2-66be3ad02a53)
